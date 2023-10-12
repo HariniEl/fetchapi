@@ -1,0 +1,41 @@
+.vl{
+   position: absolute;
+   border-left:5px solid black;
+   height: 2300px;
+   left:100px;
+   top:73px;
+}
+
+.vl1{
+   position: absolute;
+   border-left:5px solid black;
+   height: 2300px;
+   left:1250px;
+   top:73px;
+}
+.rectangle{
+   position: relative;
+   width:1148px;
+   height:40px;
+   background-color:lightskyblue;
+   left:-17px;
+   top:1px;
+}
+hr.new{
+position: absolute;
+   border-top:5px solid black;
+   top:-20px;
+   width: 1155px;
+   left:-3px;
+}
+hr.new1{
+position: relative;
+   border-top:5px solid black;
+   top:2245px;
+   width: 1155px;
+   left:-20px;
+}
+.card {
+   display: flex;
+   justify-content: space-between;
+}
